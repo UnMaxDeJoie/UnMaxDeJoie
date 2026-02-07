@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello;Ot%C3%A9;Bonjour;Hola;Akwaba;Konnichiwa;Privet;Ol%C3%A1;Salaam;Ciao;Namaste;Ni+Hao;Annyeong" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=000080;001F95;003EAA;005DBF;007CD5;009BEA;00BAFF;22C4FF;44CEFF;66D8FF;88E2FF;AAECFF;CCF6FF&center=true&vCenter=true&width=435&lines=Hello;Ot%C3%A9;Bonjour;Hola;Akwaba;Konnichiwa;Privet;Ol%C3%A1;Salaam;Ciao;Namaste;Ni+Hao;Annyeong" alt="Typing SVG" />
   </a>
 
   ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to meet you
