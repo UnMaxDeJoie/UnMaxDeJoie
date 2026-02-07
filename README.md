@@ -34,7 +34,10 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximeaitadda)](https://www.linkedin.com/in/maximeaitadda)
 
   <br>
-    ---
+  
+  --
+  
+  <br>
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwdGRncnRqaXlxd2Q2Mmpkb3Jlb25pY3Rtdzl1MThpcWhldzNuMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="30"> 
   <em>Take a look at my projects below</em> 
