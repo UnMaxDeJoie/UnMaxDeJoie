@@ -35,9 +35,6 @@
 
   </div>
   
-  <br>
-  ---
-  
   <div>
       
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwdGRncnRqaXlxd2Q2Mmpkb3Jlb25pY3Rtdzl1MThpcWhldzNuMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="30"> 
