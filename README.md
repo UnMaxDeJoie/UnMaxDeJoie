@@ -13,11 +13,14 @@
   <p>
     Tech background, Product Vision & Growth Strategy.<br>
 <br>
-    💪 𝗖𝗼-𝗳𝗼𝗻𝗱𝗮𝘁𝗲𝘂𝗿 𝗳𝗹𝘂𝘃𝘆 🏃‍♀️<br> 
-    L'app de fitness féminin qui combine suivi sportif, cycle menstruel et nutrition pour proposer un entraînement réellement adapté à chaque femme.<br>
-    On co-construit le futur du sport au féminin avec des femmes, pour des femmes.<br>
-    
-    Ton cycle, ta force 👉 https://www.fluvy.app/ <br>
+    💪 𝗖𝗼-𝗳𝗼𝗻𝗱𝗮𝘁𝗲𝘂𝗿 𝗳𝗹𝘂𝘃𝘆 🏃‍♀️
+    <br> 
+    L'app de fitness féminin qui combine suivi sportif, cycle menstruel et nutrition pour proposer un entraînement réellement adapté à chaque femme
+    <br>
+    On co-construit le futur du sport au féminin avec des femmes, pour des femmes.
+    <br>
+    Ton cycle, ta force 👉 https://www.fluvy.app/ 
+    <br>
     
     Accessible en 30 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.
     🎮 Co-founder Osmium Studio 🎮 
