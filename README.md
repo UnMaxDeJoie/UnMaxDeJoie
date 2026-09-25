@@ -26,9 +26,6 @@
     <br>
     Accessible en 30 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.
     <br>
-    <br>
-    🎮 Co-founder Osmium Studio 🎮 
-    
   </p>
 
   <br>
