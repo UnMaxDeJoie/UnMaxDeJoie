@@ -18,11 +18,15 @@
     L'app de fitness féminin qui combine suivi sportif, cycle menstruel et nutrition<br>
     pour proposer un entraînement réellement adapté à chaque femme
     <br>
+    <br>
     On co-construit le futur du sport au féminin avec des femmes, pour des femmes.
     <br>
     Ton cycle, ta force 👉 https://www.fluvy.app/ 
     <br>
+    <br>
     Accessible en 30 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.
+    <br>
+    <br>
     🎮 Co-founder Osmium Studio 🎮 
     
   </p>
