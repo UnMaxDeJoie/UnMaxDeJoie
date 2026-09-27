@@ -22,13 +22,17 @@
   <br>
   pour proposer un entraînement réellement adapté à chaque femme.
   <br>
+</p>
+<p>
   On co-construit le futur du sport au féminin avec des femmes, pour des femmes.
 </p>
 
 <p>
   <strong>Ton cycle, ta force 👉 <a href="https://www.fluvy.app/">fluvy.app</a></strong>
   <br>
-  Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.
+  Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store.
+  <br>
+  Installée comme une app, sans rien télécharger.
 </p>
 
 <hr>
