@@ -12,30 +12,21 @@
 
 <p>Tech background, Product Vision &amp; Growth Strategy</p>
 
-<table>
-<tr>
-<td align="left">
+</div>
 
 <p>
   💪 <strong>Co-fondateur de fluvy</strong> 🏃‍♀️<br>
-  L'app de fitness féminin qui combine suivi sportif, cycle menstruel et nutrition<br>
+  L'app de fitness féminin qui combine suivi sportif, cycle menstruel et nutrition
   pour proposer un entraînement réellement adapté à chaque femme.
 </p>
 
 <p>On co-construit le futur du sport au féminin avec des femmes, pour des femmes.</p>
 
-<p><strong>Ton cycle, ta force 👉 <a href="https://www.fluvy.app/">fluvy.app</a></strong></p>
+<p align="center"><strong>Ton cycle, ta force 👉 <a href="https://www.fluvy.app/">fluvy.app</a></strong></p>
 
-<p>Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store :<br>
-installée comme une app, sans rien télécharger.</p>
-
-</td>
-</tr>
-</table>
+<p>Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.</p>
 
 <hr>
-
-</div>
 
 - 🛠️ **Responsible, accessible and efficient development** <img src="https://media.giphy.com/media/tBfJZKvLczsjHZdKik/giphy.gif" width="25"/>
 - 🏋️ **Crossfit and learning lover** <img src="https://media.giphy.com/media/REvjZYtjJm4qp1VDDK/giphy.gif" width="25"/>
