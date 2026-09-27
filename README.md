@@ -23,7 +23,6 @@ pour proposer un entraînement réellement adapté à chaque femme.
 
 *On co-construit le futur du sport au féminin avec des femmes, pour des femmes.*
 
-> [!NOTE]
 > **Ton cycle, ta force 👉 [fluvy.app](https://www.fluvy.app/)**<br>
 > Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.
 
