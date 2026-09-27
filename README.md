@@ -12,6 +12,10 @@
 
 <p>Tech background, Product Vision &amp; Growth Strategy</p>
 
+<table>
+<tr>
+<td align="left">
+
 <p>
   💪 <strong>Co-fondateur de fluvy</strong> 🏃‍♀️<br>
   L'app de fitness féminin qui combine suivi sportif, cycle menstruel et nutrition<br>
@@ -22,7 +26,12 @@
 
 <p><strong>Ton cycle, ta force 👉 <a href="https://www.fluvy.app/">fluvy.app</a></strong></p>
 
-<p>Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.</p>
+<p>Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store :<br>
+installée comme une app, sans rien télécharger.</p>
+
+</td>
+</tr>
+</table>
 
 <hr>
 
@@ -44,7 +53,7 @@
 <p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwdGRncnRqaXlxd2Q2Mmpkb3Jlb25pY3Rtdzl1MThpcWhldzNuMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="30">
   <em>Take a look at the future of women's sports</em>
-  <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif" width="30"/><br>
   <a href="https://www.fluvy.app/">fluvy.app</a>
 </p>
 
