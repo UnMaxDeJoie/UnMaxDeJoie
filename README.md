@@ -14,17 +14,22 @@
 
 </div>
 
+<br>
+💪 <strong>Co-fondateur de fluvy</strong> 🏃‍♀️
+<br>
 <p>
-  💪 <strong>Co-fondateur de fluvy</strong> 🏃‍♀️<br>
   L'app de fitness féminin qui combine suivi sportif, cycle menstruel et nutrition
+  <br>
   pour proposer un entraînement réellement adapté à chaque femme.
+  <br>
+  On co-construit le futur du sport au féminin avec des femmes, pour des femmes.
 </p>
 
-<p>On co-construit le futur du sport au féminin avec des femmes, pour des femmes.</p>
-
-<p align="center"><strong>Ton cycle, ta force 👉 <a href="https://www.fluvy.app/">fluvy.app</a></strong></p>
-
-<p>Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.</p>
+<p>
+  <strong>Ton cycle, ta force 👉 <a href="https://www.fluvy.app/">fluvy.app</a></strong>
+  <br>
+  Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.
+</p>
 
 <hr>
 
