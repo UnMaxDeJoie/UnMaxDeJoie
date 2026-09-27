@@ -10,7 +10,7 @@
 
 <h3>Building products people need, want &amp; use</h3>
 
-<p>Tech background, Product Vision &amp; Growth Strategy</p>
+*Tech background, Product Vision &amp; Growth Strategy*
 
 </div>
 
