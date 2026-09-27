@@ -13,7 +13,6 @@
 <p>Tech background, Product Vision &amp; Growth Strategy</p>
 
 </div>
-<br>
 
 #### 💪 Co-fondateur de fluvy 🏃‍♀️
 
@@ -25,7 +24,7 @@ pour proposer un entraînement réellement adapté à chaque femme.
 
 > **Ton cycle, ta force 👉 [fluvy.app](https://www.fluvy.app/)**<br>
 > Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.
-
+<br>
 <hr>
 
 - 🛠️ **Responsible, accessible and efficient development** <img src="https://media.giphy.com/media/tBfJZKvLczsjHZdKik/giphy.gif" width="25"/>
