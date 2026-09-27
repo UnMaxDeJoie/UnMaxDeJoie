@@ -13,10 +13,13 @@
 <p>Tech background, Product Vision &amp; Growth Strategy</p>
 
 </div>
+<br>
 
 #### 💪 Co-fondateur de fluvy 🏃‍♀️
 
-L'app de fitness féminin qui combine **suivi sportif**, **cycle menstruel** et **nutrition** pour proposer un entraînement réellement adapté à chaque femme.
+L'app de fitness féminin qui combine **suivi sportif**, **cycle menstruel** et **nutrition**
+<br>
+pour proposer un entraînement réellement adapté à chaque femme.
 
 *On co-construit le futur du sport au féminin avec des femmes, pour des femmes.*
 
