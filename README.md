@@ -6,9 +6,8 @@
 
   ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to meet you
   <br>
-  
   <h3>Building products people need, want & use</h3>
-  
+  <br>
   <p>
     Tech background, Product Vision & Growth Strategy.<br>
 <br>
@@ -54,9 +53,9 @@
   <div>
       
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwdGRncnRqaXlxd2Q2Mmpkb3Jlb25pY3Rtdzl1MThpcWhldzNuMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" width="30"> 
-  <em>Take a look at my projects below</em> 
+  <em>Take a look at the future of women's sports </em> 
   <img src="https://media.giphy.com/media/LYEFTlC4r0wKP3KETR/giphy.gif" width="30"/>
-
+[fluvy.app](https://www.fluvy.app/)
   </div>
 
 </div>
