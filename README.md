@@ -4,25 +4,26 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello;Ot%C3%A9;Bonjour;Hola;Akwaba;Konnichiwa;Privet;Ol%C3%A1;Salaam;Ciao;Namaste;Ni+Hao;Annyeong" alt="Typing SVG" />
   </a>
 
-  ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to meet you
+  ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="42px"> Nice to meet you
   <br>
-  <h3>Building products people need, want & use</h3>
+  <h2>Building products people need, want & use</h2>
   <br>
   <p>
-    Tech background, Product Vision & Growth Strategy.<br>
-<br>
-    💪 𝗖𝗼-𝗳𝗼𝗻𝗱𝗮𝘁𝗲𝘂𝗿 𝗳𝗹𝘂𝘃𝘆 🏃‍♀️
+    Tech background, Product Vision & Growth Strategy<br>
+    <br>
+    💪<strong> Co-fondateur de fluvy </strong>🏃‍♀️
     <br> 
     L'app de fitness féminin qui combine suivi sportif, cycle menstruel et nutrition<br>
-    pour proposer un entraînement réellement adapté à chaque femme
+    pour proposer un entraînement réellement adapté à chaque femme.
     <br>
     <br>
     On co-construit le futur du sport au féminin avec des femmes, pour des femmes.
     <br>
-    Ton cycle, ta force 👉 https://www.fluvy.app/ 
+    <br>
+    <strong>Ton cycle, ta force 👉 https://www.fluvy.app/</strong>
     <br>
     <br>
-    Accessible en 30 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.
+    Accessible en 5 secondes depuis ton navigateur, sans passer par l'App Store : installée comme une app, sans rien télécharger.
     <br>
   </p>
 
